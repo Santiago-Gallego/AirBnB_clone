@@ -13,3 +13,22 @@ The first step is to “design” / “sketch” / “prototype” each element:
 - Fake contents
 - No Javascript
 - No data loaded from anything
+
+**1. Index files**
+
+All index.html files in this folder are one level of the web page from index.html 0 to 8.
+
+
+**2. Styles folder**
+
+All the .css stylesheets are situated in the **styles**.
+
+
+**3. Images**
+
+All the icons and logos used for this project are in the **images**.
+
+
+## Author
+
+Santiago Gallego
