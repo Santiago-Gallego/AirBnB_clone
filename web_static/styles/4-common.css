@@ -4,10 +4,6 @@
     padding: 0;
 }
 
-html {
-    height: 100vh;
-}
-
 body {
     color : #484848;
     font-size: 14px;
@@ -19,5 +15,5 @@ body {
 .container {
     max-width: 1000px;
     margin: 30px auto;
-    height: 250%;
+    center: horizontally;
 }
